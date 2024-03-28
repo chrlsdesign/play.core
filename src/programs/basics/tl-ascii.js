@@ -49,7 +49,7 @@ import { css } from '/src/modules/color.js'
 export const settings = { fps : 60 }
 
 const {sin, cos, floor, PI} = Math
-const density = '$?01@*$#&+-><:. '
+const density = ' _?01@*$#&+-><:. '
 
 const PI23 = PI * 2 / 3
 const PI43 = PI * 4 / 3
